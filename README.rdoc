@@ -46,3 +46,4 @@ Use it. If you find any bugs, contact me (if possible with a test case) or patch
 
 Copyright (c) 2009 Jakob Vidmar. See LICENSE for details.
 
+Issue fixed
